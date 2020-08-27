@@ -12,3 +12,5 @@ path = '/Users/jason/Python/proj_ds_salary/chromedriver'
 
 
 df = gs.get_jobs('data scientist', 800, False, path, 30 )
+
+df.to_csv('glassdoor_jobs.csv',index=False)
