@@ -2,5 +2,5 @@
 
 ## resources
 https://github.com/arapfaik/scraping-glassdoor-selenium
-## Following toturial of Ken Jee
+## following toturial of Ken Jee
 https://github.com/PlayingNumbers/ds_salary_proj
