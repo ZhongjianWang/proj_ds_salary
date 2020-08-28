@@ -63,5 +63,5 @@ df.SQL.value_counts()
 df_out = df.drop([('Salary Estimate'),('Competitors')], axis = 1)
 df_out.to_csv('salary_data_cleaned.csv',index=False)
 
-
+df.Size.replace('Unknown','-1')
 
