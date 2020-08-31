@@ -55,9 +55,15 @@ df.aws.value_counts()
 #excel
 df['excel']=df['Job Description'].apply(lambda x: 1 if 'excel' in x.lower() else 0)
 df.excel.value_counts()
-#sql
+#SAP
+df['SAP']=df['Job Description'].apply(lambda x: 1 if 'sap' in x.lower() else 0)
+df.SAP.value_counts()
+#SQL
 df['SQL']=df['Job Description'].apply(lambda x: 1 if 'sql' in x.lower() else 0)
 df.SQL.value_counts()
+#ML
+df['ML']=df['Job Description'].apply(lambda x: 1 if 'machine learning' in x.lower() else 0)
+df.ML.value_counts()
 
 #drop the unknown part
 df_out = df.drop([('Salary Estimate'),('Competitors')], axis = 1)
