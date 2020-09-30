@@ -1,17 +1,3 @@
-## resources
-https://github.com/arapfaik/scraping-glassdoor-selenium
-
-https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-
-## following toturial of Ken Jee
-https://github.com/PlayingNumbers/ds_salary_proj
-
-https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
-
-
-
-
-
 # Data Science Job in Germany(Düsseldorf): Project Overview 
 I want to land a data scientist job in Düsseldorf, so i want to find out the most important qualifications companies are asking for in a data scientist position in Düsseldorf, Germany
 * Scraped 900 job descriptions from glassdoor.de using python and selenium
@@ -63,5 +49,9 @@ I looked at the distributions of the data and the value counts for the various c
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
 
 
+## Resources
+This project is mainly following the toturials from Ken Jee
+https://github.com/PlayingNumbers/ds_salary_proj
 
+https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
