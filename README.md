@@ -44,9 +44,14 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/company.png "Recruiters Name")
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/business_sector.png "Recruiters Business Sector")
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/SQL.png "SQL Requirement")
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/ML.png "Machine Learning Requirement ")
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/python.png "Python Requirement")
+
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/GlassdoorDUS.png "DUS job word cloud")
+
 
 
 ## Resources
