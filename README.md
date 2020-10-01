@@ -1,5 +1,5 @@
 # Data Science Job in Germany(Düsseldorf): Project Overview 
-I want to land a data scientist job in Düsseldorf, so i want to find out the most important qualifications companies are looking for when recruiting a data scientist in Germany
+I want to land a data scientist job in Düsseldorf, so i want to find out the most important qualifications companies are looking for when recruiting a data scientist in Germany and especially in Düsseldorf
 * Scraped 900 job descriptions from glassdoor.de using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and SAP. 
 * exploratory data analysis, get an overall idea how to prepare for appying such a job 
@@ -36,7 +36,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
     * R  
     * Excel  
     * AWS  
-    * Spark 
+    * ML 
     * SAP
 *	Column for simplified job title and Seniority 
 *	Column for description length 
