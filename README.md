@@ -45,7 +45,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 I looked at the distributions of the data and the value counts for the various categorical variables. A few highlights are listed below. Here are some interesting aspects i found out: 
 * SQL,ML,Python are the three main requirements in term of skillsets
 * SAP knowledge is not mandatory in most companies which is not what i expected
-* The word cloud is based on the job description and **Team** and **Kunden** really stand out
+* The word cloud is based on the job description in which **Team** and **Kunden** really stand out
 
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/company.png "Recruiters Name")
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/business_sector.png "Recruiters Business Sector")
