@@ -42,20 +42,24 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Column for description length 
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights. Some interesting aspects i found out: 
+* SQL,ML,Python are the three main requirements in term of skillsets
+* SAP knowledge is not mandatory in most companies which is not what i expected
+* The word cloud is based on the job description and **Team** and **Kunden** really stand out.
 
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/company.png "Recruiters Name")
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/business_sector.png "Recruiters Business Sector")
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/SQL.png "SQL Requirement")
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/ML.png "Machine Learning Requirement ")
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/python.png "Python Requirement")
+![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/SAP.png "SAP Requirement")
 
 ![alt text](https://github.com/ZhongjianWang/proj_ds_salary/blob/master/GlassdoorDUS.png "DUS job word cloud")
 
 
 
 ## Resources
-This project is mainly following the toturials from Ken Jee
+This project is mainly following the toturials from Ken Jee anaysing data scientist salaries in the USA
 https://github.com/PlayingNumbers/ds_salary_proj
 
 https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
